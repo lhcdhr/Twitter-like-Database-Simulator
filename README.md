@@ -1,4 +1,4 @@
-# A Twitter-like database simulator
+# Twitter-like database simulator
 Based on hashtable, which is implemented from scratch.  
 Uses chaining to resolve collision.  
 Will increase capacity when the load is larger than 75%.  
